@@ -1,4 +1,4 @@
-🎮 My Tic Tac Toe – README
+ My Tic Tac Toe – README
 
 📌 Project Overview
 
@@ -8,20 +8,18 @@ This project is beginner-friendly and demonstrates how to create GUI application
 
 ---
 
-✨ Features
-
-✔️ User-friendly graphical interface
-✔️ Two-player gameplay (X and O)
-✔️ Automatic turn switching
-✔️ Win detection system
-✔️ Draw game detection
-✔️ Winning boxes highlighted in pink
-✔️ Result popup message
-✔️ Clean and simple code structure
+ Features:
+. User-friendly graphical interface
+. Two-player gameplay (X and O)
+. Automatic turn switching
+. Win detection system
+. Draw game detection
+. Winning boxes highlighted in pink
+. Result popup message
+. Clean and simple code structure
 
 ---
-
-🛠️ Technologies Used
+ Technologies Used:
 
 - Python 3
 - Tkinter (Built-in Python GUI Library)
@@ -51,7 +49,7 @@ A player wins if they complete:
 
 ---
 
-▶️ How to Run the Project
+ How to Run the Project:
 
 Step 1:
 
@@ -85,7 +83,7 @@ Turn: X
 
 ---
 
-📚 Concepts Used in This Project
+Concepts Used in This Project
 
 - Functions
 - Lists
@@ -98,7 +96,7 @@ Turn: X
 
 ---
 
-🚀 Future Improvements
+ Future Improvements:
 
 You can upgrade this project by adding:
 
@@ -110,12 +108,11 @@ You can upgrade this project by adding:
 - Timer Mode
 
 ---
+ Author:
+Uzma Nazeer(12-3-1-039-2025)
+Sawaira Mubashir(12-3-1-037-2025)
 
-👨‍💻 Author
-Uzma Nazeer
-Sawaira Mubashir
-
-🌟 Why This Project is Good
+ Why This Project is Good:
 
 This project is excellent for students and beginners because it improves understanding of:
 
@@ -125,7 +122,7 @@ This project is excellent for students and beginners because it improves underst
 - Problem solving
 
 
-📌 Final Note
+ Final Note:
 
 This Tic Tac Toe game is simple, attractive, and a great mini project for academic submission or portfolio showcase.
                                      -------------------------------------------
