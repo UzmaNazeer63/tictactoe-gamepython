@@ -125,8 +125,8 @@ This project is excellent for students and beginners because it improves underst
  Final Note:
 
 This Tic Tac Toe game is simple, attractive, and a great mini project for academic submission or portfolio showcase.
-                                     -------------------------------------------
-python code
+                                     -----------------------
+python code:
 import tkinter as tk
 from tkinter import messagebox
 
